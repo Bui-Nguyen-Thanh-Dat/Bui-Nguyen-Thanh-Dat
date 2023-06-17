@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "A",
+      "password": "123456",
+      "firstName": "Thanh",
+      "lastName": "Dat",
+      "email": "thanhdat99201@gmail.com",
+      "gender": "Male",
+      "role": "ADMIN"
+    }
+  ],
+  "devices": [
+    {
+      "id":"ASUS12-2",
+      "name":"Asus Vivobook A",
+      "number":2,
+      "date":"06/05/2023",
+      "price":"17990000"
+    },
+    {
+      "id":"ASUS12-2",
+      "name":"Asus Vivobook A",
+      "number":2,
+      "date":"06/05/2023",
+      "price":"17990000"
+    },
+    {
+      "id":"ASUS12-2",
+      "name":"Asus Vivobook A",
+      "number":2,
+      "date":"06/05/2023",
+      "price":"17990000"
+    },
+    {
+      "id":"ASUS12-2",
+      "name":"Asus Vivobook A",
+      "number":2,
+      "date":"06/05/2023",
+      "price":"17990000"
+    }
+
+  ]
+}
